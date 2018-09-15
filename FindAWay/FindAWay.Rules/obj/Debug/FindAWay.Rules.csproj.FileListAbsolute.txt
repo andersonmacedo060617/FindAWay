@@ -1,0 +1,6 @@
+C:\Users\Anderson Macedo\Documents\Projetos de Estudo\FindAWay\FindAWay.Rules\bin\Debug\FindAWay.Rules.dll
+C:\Users\Anderson Macedo\Documents\Projetos de Estudo\FindAWay\FindAWay.Rules\bin\Debug\FindAWay.Rules.pdb
+C:\Users\Anderson Macedo\Documents\Projetos de Estudo\FindAWay\FindAWay.Rules\obj\Debug\FindAWay.Rules.csprojResolveAssemblyReference.cache
+C:\Users\Anderson Macedo\Documents\Projetos de Estudo\FindAWay\FindAWay.Rules\obj\Debug\FindAWay.Rules.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Macedo\Documents\Projetos de Estudo\FindAWay\FindAWay.Rules\obj\Debug\FindAWay.Rules.dll
+C:\Users\Anderson Macedo\Documents\Projetos de Estudo\FindAWay\FindAWay.Rules\obj\Debug\FindAWay.Rules.pdb

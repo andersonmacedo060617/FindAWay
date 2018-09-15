@@ -1,0 +1,11 @@
+﻿@model IEnumerable<FindAWay.Rules.Field>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="@ViewBag.StyleStep">
+            @Html.Action("LoadField", new { step = item.Step, position = item.Position})
+        </div>
+    }
+
+</div>

@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Find a Way";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row" id="IndexGame">
+    @Html.Action("IndexGame","FindWay")
+</div>
+
+<script type="text/javascript">
+    function selectPosition(step, position) {
+        $.ajax(
+            {
+                type: 'GET',
+                url: '/FindWay/SelecionaPosicao?step=' + step + '&position=' + position,
+                success: function (data) {
+                    $('#IndexGame').html(data)
+                }
+            });
+
+    }
+</script>
